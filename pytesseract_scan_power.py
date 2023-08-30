@@ -6,6 +6,7 @@ from PIL import Image
 import re
 import natsort
 
+# 버전 등록용 주석 : 20230830_v1
 directory = "e:/1468/20230714"
 
 # Retrieve the list of files in the directory, order by 가 안되고 그냥 읽어옴
